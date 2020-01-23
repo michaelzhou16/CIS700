@@ -1,0 +1,21 @@
+recruit catelyn
+south
+recruit edmure
+recruit roose
+set up supply line at camp
+south
+propose to marry a frey
+send bolton and tully to fight in green fork
+west
+make surprise attack plan at war camp
+south
+surprise attack jamie
+north
+east
+talk to walder frey
+marry tailsa instead
+celebrate wedding
+north
+north
+attack theon
+sit on frozen throne
